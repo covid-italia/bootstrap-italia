@@ -3,8 +3,8 @@ name: Bootstrap Italia
 applicationSuite: Design system Italia
 url: https://github.com/italia/bootstrap-italia
 isBasedOn: https://github.com/twbs/bootstrap
-softwareVersion: "v2.18.0 "
-releaseDate: 2026-03-05
+softwareVersion: v2.18.1
+releaseDate: '2026-04-23'
 platforms:
   - web
 categories:
